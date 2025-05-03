@@ -1,0 +1,17 @@
+# Ignora la cartella index_fields
+index_fields/
+
+# Ignora file temporanei di Jupyter
+.ipynb_checkpoints/
+
+# Ignora cache Python
+__pycache__/
+*.py[cod]
+
+# Ignora ambienti virtuali
+venv/
+env/
+
+# File di sistema (Windows e Mac)
+Thumbs.db
+.DS_Store
