@@ -1,5 +1,6 @@
 # Ignora la cartella index_fields
 index_fields/
+index_directions/
 
 # Ignora file temporanei di Jupyter
 .ipynb_checkpoints/
