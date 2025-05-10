@@ -16,3 +16,6 @@ env/
 # File di sistema (Windows e Mac)
 Thumbs.db
 .DS_Store
+
+# .gitignore
+.env
