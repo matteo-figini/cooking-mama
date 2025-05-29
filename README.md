@@ -44,6 +44,8 @@ In this notebook we tested several models working on the dataset:
 - A multi-agent system generates and refines cooking recipes using a pretrained LLM (GPT-4) and information retrieval techniques, using LangChain and LangGraph.
 - In the end, we built a complete chatbot offering also a text-to-speech feature.
 
+You can find a short (5 minutes) presentation video at the following [link](https://polimi365-my.sharepoint.com/personal/10767415_polimi_it/_layouts/15/stream.aspx?id=%2Fpersonal%2F10767415%5Fpolimi%5Fit%2FDocuments%2Fcooking%5Fmama%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ece99c3d0%2D624f%2D489f%2Db8f6%2Df4a878eb9aa5).
+
 ## 👥 Authors
 
 - **Matteo Figini** - [GitHub](https://github.com/matteo-figini)
