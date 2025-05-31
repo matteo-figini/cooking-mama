@@ -49,7 +49,7 @@ You can find a short (5 minutes) presentation video at the following [link](http
 ## 👥 Authors
 
 - **Matteo Figini** - [GitHub](https://github.com/matteo-figini)
-- **Riccardo Figini** - [GitHub](https://github.com/RiccardoFiginiST)
+- **Riccardo Figini** - [GitHub](https://github.com/RiccardoFigini)
 - **Caterina Motti** - [GitHub](https://github.com/mttcrn)
 - **Simone Zacchetti** - [GitHub](https://github.com/SimoneZacchetti)
 - **Samuele Forner** - [GitHub](https://github.com/samueleforner)
